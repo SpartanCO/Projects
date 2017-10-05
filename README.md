@@ -2,8 +2,6 @@
 
 These are some of the projects I have been working on. 
 
-![waterpoint_mtwara](https://user-images.githubusercontent.com/29004320/31241527-4ed70d50-a9c1-11e7-8e71-03a5192aa635.png)
-
 The PumpItUp project is a DrivenData competition to predict the status (functional, need repair, and non functional) of waterpoints in Tanzania. I did some feature engineering and used a Random Forest classifier for my predictions in this project. There are a couple Tableau data visualizations displayed here too. I probably engineered the features a little too much. This is a project that I used in some job applications and I wanted to show what I could do with manipulating data and writing some functions.
 
 The Flowline project is a very short data analysis project for my neighborhood Oil and Gas group. 
