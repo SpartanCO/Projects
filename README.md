@@ -2,10 +2,9 @@
 
 These are some of the projects I have been working on. 
 
+A Linear Discriminant Analysis Tutorial for a blog post I did and subsequent meetup presentations.
 
-![waterpoint_tanzania](https://user-images.githubusercontent.com/29004320/31241637-baef4890-a9c1-11e7-872e-c268b32794ab.png)
-![waterpoint_type_communal_standpipe](https://user-images.githubusercontent.com/29004320/31241643-c1fd5a8c-a9c1-11e7-8f7c-3431661f92be.png)
-The PumpItUp project is a DrivenData competition to predict the status (functional, need repair, and non functional) of waterpoints in Tanzania. I did some feature engineering and used a Random Forest classifier for my predictions in this project. There are a couple Tableau data visualizations displayed here too. I probably engineered the features a little too much. This is a project that I used in some job applications and I wanted to show what I could do with manipulating data and writing some functions.
+The PumpItUp project is a DrivenData competition to predict the status (functional, need repair, and non functional) of waterpoints in Tanzania. I did some feature engineering, Linear Discriminant Analysis to reduce dimensions, and finally used a Random Forest classifier for my predictions in this project. There are a couple Tableau data visualizations displayed here too. I probably engineered the features a little too much. This is a project that I used in some job applications and I wanted to show what I could do with manipulating data and writing some functions.
 
 The Flowline project is a very short data analysis project for my neighborhood Oil and Gas group. 
 
