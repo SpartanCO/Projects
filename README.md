@@ -5,7 +5,6 @@ This was a blog post I wrote about using LDA as a preprocessing step for dimensi
 
 ## NLP_CHILDES1 
 This is my first Natural Language Processing project. This project is still in it's beginning stages and is ongoing. I am pulling in speech from children of different ages and analyzing patterns. Eventually I would like to be able to predict speech delays based on age and patterns.This project uses BeautifulSoup and NLTK.
-![Alt text](/Desktop/pos_age.png?raw=true "Parts of Speech with Age")
 
 
 ## PumpItUp1 
