@@ -2,6 +2,7 @@
 
 ## Learn to LDA with Iris Data
 This was a blog post I wrote about using LDA as a preprocessing step for dimensionality reduction (check out https://www.jaclynkokx.com). I go through the math, theory, and code of implementing this the long way, and then I compared it to using scikit-learn's LDA method. I then presented this at a couple local Data Science Meetups. For slides: https://www.slideshare.net/JaclynKokx/introduction-to-linear-discriminant-analysis
+![lda_everything](https://github.com/SpartanCO/Projects/raw/master/everything.png)
 
 ## NLP_CHILDES1 
 This is my first Natural Language Processing project. This project is still in it's beginning stages and is ongoing. I am pulling in speech from children of different ages and analyzing patterns. Eventually I would like to be able to predict speech delays based on age and patterns.This project uses BeautifulSoup and NLTK.
